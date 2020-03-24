@@ -1,0 +1,15 @@
+- Regression (Ordinal regression, Poisson regression, Fast forest quantile regression
+Linear, Polynomial, Lasso, Stepwise, Ridge regression, Baysian Linear regression,
+Neural network regression, Decision forest regression, Boosted decision tree regression,
+KNN(K-nearest neighbors)
+
+- Classification
+- Clustring
+- Scikit Learn
+- Scipy
+
+Projects
+- Cancer detection
+- Predicting economic trends
+- Predicting customer churn
+- Recommendation engines
